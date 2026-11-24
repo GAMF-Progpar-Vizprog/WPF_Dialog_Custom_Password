@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace CustomBialogBox_Password
+namespace WPF_Dialog_Custom_Password
 {
 	/// <summary>
 	/// Interaction logic for App.xaml

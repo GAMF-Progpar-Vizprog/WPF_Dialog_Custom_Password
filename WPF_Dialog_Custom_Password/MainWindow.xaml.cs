@@ -2,7 +2,7 @@
 using System.Text;
 using System.Windows;
 
-namespace CustomBialogBox_Password
+namespace WPF_Dialog_Custom_Password
 {
 	public partial class MainWindow : Window
 	{

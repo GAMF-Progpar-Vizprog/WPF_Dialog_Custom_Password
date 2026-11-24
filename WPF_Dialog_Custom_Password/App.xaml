@@ -1,7 +1,7 @@
-﻿<Application x:Class="CustomBialogBox_Password.App"
+﻿<Application x:Class="WPF_Dialog_Custom_Password.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:CustomBialogBox_Password"
+             xmlns:local="clr-namespace:WPF_Dialog_Custom_Password"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          
